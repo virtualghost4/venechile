@@ -10,14 +10,14 @@
         <title>Venechile | Frutos secos, servicio de deshidratado y almacenaje </title>
 
         <!-- CSS -->
-        <link rel="stylesheet" href="css/bootstrap.min.css" >
-        <link rel="stylesheet" href="css/animate.css" >
-        <link rel="stylesheet" href="css/fonts.css" >
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
-        <link rel="stylesheet" href="css/slick.css">
-        <link rel="stylesheet" href="css/structure.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css" >
+        <link rel="stylesheet" href="assets/css/animate.css" >
+        <link rel="stylesheet" href="assets/css/fonts.css" >
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/slick.css">
+        <link rel="stylesheet" href="assets/css/structure.css">
+        <link rel="stylesheet" href="assets/css/main.css">
         <link id="preset" rel="stylesheet" href="css/presets/preset1.css">
         <link rel="stylesheet" href="css/responsive.css">
 

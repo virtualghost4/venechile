@@ -1,6 +1,3 @@
-<?php
-    include 'partials/navbar.php';
-?>
 
         <div id="home-carousel" class="carousel slide home-slider tr-banner parallax" data-ride="carousel">
             <div class="carousel-inner text-center" role="listbox">                
@@ -196,7 +193,3 @@
                 </div><!-- /.brand-slider -->
             </div>
         </div><!-- /.tr-brand -->  
-
-<?php
-    include 'partials/footer.php';
-?>

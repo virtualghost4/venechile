@@ -95,16 +95,16 @@
         </div><!-- /.tr-footer --> 
              
         <!-- JS -->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/tether.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/slick.min.js"></script>
-        <script src="js/countdown.js"></script>
-        <script src="js/magnific-popup.min.js"></script>
-        <script src="js/jquery-ui-min.js"></script>
-        <script src="js/jquery.spinner.min.js"></script>
-        <script src="js/carousel-touch.js"></script>
-        <script src="js/switcher.js"></script>
-        <script src="js/main.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/tether.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/slick.min.js"></script>
+        <script src="assets/js/countdown.js"></script>
+        <script src="assets/js/magnific-popup.min.js"></script>
+        <script src="assets/js/jquery-ui-min.js"></script>
+        <script src="assets/js/jquery.spinner.min.js"></script>
+        <script src="assets/js/carousel-touch.js"></script>
+        <script src="assets/js/switcher.js"></script>
+        <script src="assets/js/main.js"></script>
     </body>
 </html>     

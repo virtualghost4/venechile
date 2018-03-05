@@ -3,7 +3,7 @@
 class ViewsController{
 
 
-	public function views(){
+	public function view(){
 
 		include 'views/template.php';
 
