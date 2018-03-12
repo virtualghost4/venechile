@@ -1,6 +1,4 @@
-<?php
-    include 'partials/accessheader.php';
-?>
+
 
  
         <div class="main-content bg-color">
@@ -11,9 +9,9 @@
                             <a href="index.html"><img class="img-fluid" src="images/logo.png" alt="Logo"></a>
                         </div>
                         <h1>Sign In</h1>
-                        <form action="#" class="tr-form" method="post" id="accessForm" onsubmit="return validarIngreso">
+                        <form action="#" class="tr-form" method="post" id="accessForm" onsubmit="return validarIngreso()">
                             <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Email" name="emailInput" required="required" id="emailInput">
+                                <input type="text" class="form-control" placeholder="Email" name="emailInput" required="required" id="emailInput">
                             </div>
                             <div class="form-group">
                                 <input type="password" class="form-control" placeholder="Password" name="passwordInput" required="required" id="passwordInput">
@@ -34,4 +32,6 @@
             </div><!-- /.container -->         
         </div><!-- /.main-content -->
 
-       
+<?php
+    include 'partials/accessheader.php';
+?>
